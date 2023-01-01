@@ -95,11 +95,11 @@ CONFIG_PACKAGE_wireless-regdb=y
 
 #### CONFIG_ALL_KMODS=y
 
-CONFIG_PACKAGE_kmod-crypto-hash
-CONFIG_PACKAGE_kmod-crypto-null
-CONFIG_PACKAGE_kmod-crypto-aead
-CONFIG_PACKAGE_kmod-crypto-manager
-CONFIG_PACKAGE_kmod-crypto-authenc
+CONFIG_PACKAGE_kmod-crypto-hash=y
+CONFIG_PACKAGE_kmod-crypto-null=y
+CONFIG_PACKAGE_kmod-crypto-aead=y
+CONFIG_PACKAGE_kmod-crypto-manager=y
+CONFIG_PACKAGE_kmod-crypto-authenc=y
 
 
 # Wireless Drivers:
